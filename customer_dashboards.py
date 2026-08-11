@@ -6,3 +6,4 @@ password=input("enter password: ")
 for i in range():
   pass
 print("This line is from github")
+i=10
